@@ -1,0 +1,10 @@
+npx nuxi init nuxt-dojo
+cd nuxt-dojo
+npm install
+npm run dev
+npm install --save-dev @nuxtjs/tailwindcss
+
+modules: ['@nuxtjs/tailwindcss'], in nuxt.confiq.ts
+
+https://fakestoreapi.com/docs
+https://currencyapi.com/
